@@ -40,3 +40,15 @@ To address these questions, we employ various techniques and methods including:
 6.Visualizing results using bar charts and line graphs.
 
 7.Adding labels and annotations to enhance the interpretability of visualizations.
+
+# Insights
+1.Based on our analysis, the best month for sales was December, during which a total of $4,613,443.34 was earned.
+
+2.Based on the analysis depicted in the bar plot, it's evident that San Francisco had the highest number of sales.
+
+3.Based on the analysis of the data, it appears that the best times to display advertisements are slightly before 11 AM or 7 PM. These times likely coincide with peak periods of activity or engagement, maximizing the potential reach and impact of the advertisements.
+
+4.Based on the analysis of sales data, the top three combinations of products that are most often sold together are:
+iPhone and Lightning Charging Cable, Google Phone and USB-C Charging Cable, iPhone and Wired Headphones
+
+5.The product that sold the most appears to be the AA Batteries (4 pack) and AAA Batteries (4 pack). This could be attributed to their relatively low cost compared to other products, as indicated in the plot. The affordability and practicality of these batteries make them essential purchases for many customers, leading to higher sales volume.
